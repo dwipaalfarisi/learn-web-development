@@ -1,0 +1,22 @@
+body {
+
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border: 2px solid purple;
+}
+
+p {
+    color: pink;
+}
+
+p {
+    color: green;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
