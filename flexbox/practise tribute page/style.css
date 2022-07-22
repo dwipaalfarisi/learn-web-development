@@ -4,6 +4,25 @@ body {
     background-color: white;
 }
 
+.united {
+    position: absolute;
+    top: 0px;
+    height: 70px;
+    margin-top: 30px;
+}
+
+#logo img {
+    top: 0px;
+    position: absolute;
+    right: 0px;
+    height: 20px;
+    margin-top: 50px;
+}
+
+.teamviewer {
+    margin-right: 40px;
+}
+
 #title {
     text-align: center;
     font-size: 50px;
@@ -33,7 +52,7 @@ body {
     align-items: baseline;
 }
 
-img {
+.eth img {
     border-radius: 20px;
     height: 500px;
     margin: 10px;
