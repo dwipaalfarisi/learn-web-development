@@ -1,0 +1,40 @@
+* {
+    font-family: 'roboto', cursive;
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-size: 72px;
+    background: linear-gradient(#b827fc 0%, #2c90fc 15%, #fd1892 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: text;
+}
+
+.rainbow-box {
+    background-color: white;
+    border: solid 2px black;
+    height: 70px;
+    margin: 20px auto;
+    width: 400px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.rainbow-box:hover {
+    border: 2px solid transparent;
+    border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 15%, #fd1892 100%);
+    border-image: solid;
+    border-image-slice: 1;
+}
+
+.rainbow-box a{
+    font-size: 30px;
+    margin: 0px;
+    vertical-align: middle;
+    color: black;
+    text-decoration: none;
+    display: grid;
+    justify-content: center;
+    margin-top: 20px;
+}
