@@ -3,14 +3,14 @@
 }
 
 body {
-    background-color: white;
+    background-color: grey;
 }
 
 h1 {
     text-align: center;
     font-size: 80px;
     font-size: 72px;
-    background: linear-gradient(#b827fc 0%, #2c90fc 15%, #fd1892 100%);
+    background: linear-gradient(#ce95e8 0%, #06305c 15%, #fd1892 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     cursor: text;
